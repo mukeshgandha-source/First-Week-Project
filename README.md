@@ -32,9 +32,8 @@ Quiz-App/
 ## How to Run the Project
 1. Clone or download the repository
 2. Open the project folder in Visual Studio Code
-3. Install the Live Server extension
-4. Right-click on index.html
-5. Select "Open with Live Server"
+3. Right-click on index.html
+4. Select "Open with Live Server"
 
 ## Screenshots
 Screenshots of the quiz interface and result screen are included in the project presentation.
